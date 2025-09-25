@@ -14,5 +14,8 @@ Conejo
 Araña
 Mosquito
 Mariposa
-Mosca
-Cucharacha
+Escarabajo
+Lombriz
+
+Dragón de cómodo
+Cocodrilo
